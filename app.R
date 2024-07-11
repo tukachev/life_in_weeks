@@ -1,6 +1,6 @@
 library(shiny)
 library(shinythemes)
-library(tidyverse)
+library(ggplot2)
 library(lubridate)
 library(colourpicker)
 
