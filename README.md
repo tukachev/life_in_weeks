@@ -4,4 +4,6 @@ This application creates an interactive visualization called "My Life in Weeks".
 
 **Live App:** <https://hr-datalab.shinyapps.io/life_in_weeks/>
 
+**PositCloud**: <https://connect.posit.cloud/tukachev/content/0190a188-10ec-a5b6-fe07-c464d1c71a57>
+
 ![app](life_in_weeks.jpg)
